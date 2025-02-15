@@ -1,6 +1,6 @@
 ﻿# usando-git-exemplo
 
-Um projeto simples de teste.
+Um projeto simples de teste do Git e Github.
 
 ## Variável de Ambiente
 
